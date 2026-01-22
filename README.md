@@ -1,18 +1,18 @@
 ## Hello 👋 It's Shrisha here !
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFuN2h0eDEyZnV5b29jaDhqM2diNDFscHJkenU5YmdkOTczNHJnciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J08r3aXHt0BDATrfyT/giphy.gif)">
 
-- 🔭 I’m currently working on Frontend based projects
+- 🔭 I’m currently working on GenAI based projects
                                              
 - 🌱 I’m currently Learning to integrate AI in my workflow.
 
-- 👯 I'm Looking to collaborate on AI/ML.
+- 👯 I'm Looking to collaborate on Gen AI.
 
 - ☁ (DON'T) Ask me about Tech :)
 
 - 📫 How to reach me: meshrisha02@gmail.com
 
-- ⚡ Fun fact: I know French.
+- ⚡ Fun fact: I know French and i still use chatgpt. :)
 
   
 - Social Presence :
